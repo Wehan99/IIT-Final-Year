@@ -1,0 +1,29 @@
+//defining varibles
+const MIN_SHEET			=	1
+const MAX_SHEET			=	3
+range DOCUMENT_COUNT	=	MIN_SHEET .. MAX_SHEET
+range SHEET_STACK		=	0 .. MAX_SHEET
+
+//Defining sets(users and actions)
+
+set USER_SET = {stu1, stu2, techn}
+set ACTIONS_SET = {acquire, print[DOCUMENT_COUNT], release, empty}
+//Operations
+PRINTER(SHEETS_AVAILABLE	= MAX_SHEET) = PRINTER_AVAILABLE[MAX_SHEET],
+PRINTER_AVAILABLE[available_sheets: SHEET_STACK] = 
+(
+when(available_sheets > 0)acquire -> print[DOCUMENT_COUNT] -> release -> PRINTER_AVAILABLE[available_sheets - 1] |
+when(available_sheets == 0)empty -> release -> PRINTER_AVAILABLE[MAX_SHEET]
+).
+
+STUDENT(DOCUMENTS_TO_PRINT = 1) =  PRINT[DOCUMENTS_TO_PRINT],
+PRINT[document_count: 0 .. DOCUMENTS_TO_PRINT] = (
+when (document_count > 0)  acquire -> print[DOCUMENTS_TO_PRINT + 1 - document_count] -> release -> PRINT[document_count - 1] |
+when (document_count == 0) terminate -> END
+) + ACTIONS_SET.
+
+TECHNICIAN = (empty -> refill_printer -> release -> TECHNICIAN | terminate -> END) + ACTIONS_SET.
+
+|| PRINTING_SYSTEM = (stu1: STUDENT(2) || stu2: STUDENT(3) || techn : TECHNICIAN || USER_SET :: PRINTER) 
+/ {terminate/USER_SET.terminate}.
+

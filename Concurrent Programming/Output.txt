@@ -1,0 +1,174 @@
+"C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\lib\idea_rt.jar=54916:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Users\User\IdeaProjects\CourseWork\out\production\CourseWork" JavaCourseWork.PrintingSystem
+Minimum Paper Level Not Exceeded, Current Paper Level : 250
+Minimum toner level not exceeded, Current toner level : 500
+Student1 has Printed Document : 01 Successfully...
+Current Toner Level = 498
+Current Paper Level = 248
+Printed Documents Count = 1
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 498
+Minimum Paper Level Not Exceeded, Current Paper Level : 248
+Student4 has Printed Document : 01 Successfully...
+Current Toner Level = 496
+Current Paper Level = 246
+Printed Documents Count = 2
+**********************************************************************************
+Student3 has Printed Document : 01 Successfully...
+Current Toner Level = 494
+Current Paper Level = 244
+Printed Documents Count = 3
+**********************************************************************************
+Student2 has Printed Document : 01 Successfully...
+Current Toner Level = 492
+Current Paper Level = 242
+Printed Documents Count = 4
+**********************************************************************************
+Minimum Paper Level Not Exceeded, Current Paper Level : 242
+Minimum toner level not exceeded, Current toner level : 492
+Student1 Finished Printing 5 Documents, no of pages : 2
+Student1 has Printed Document : 02 Successfully...
+Current Toner Level = 489
+Current Paper Level = 239
+Printed Documents Count = 5
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 489
+Minimum Paper Level Not Exceeded, Current Paper Level : 239
+Student1 Finished Printing 5 Documents, no of pages : 5
+Student1 has Printed Document : 03 Successfully...
+Current Toner Level = 482
+Current Paper Level = 232
+Printed Documents Count = 6
+**********************************************************************************
+Minimum Paper Level Not Exceeded, Current Paper Level : 232
+Minimum toner level not exceeded, Current toner level : 482
+Student3 Finished Printing 5 Documents, no of pages : 2
+Student3 has Printed Document : 02 Successfully...
+Current Toner Level = 479
+Current Paper Level = 229
+Printed Documents Count = 7
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 479
+Minimum Paper Level Not Exceeded, Current Paper Level : 229
+Student2 Finished Printing 5 Documents, no of pages : 2
+Student2 has Printed Document : 02 Successfully...
+Current Toner Level = 476
+Current Paper Level = 226
+Printed Documents Count = 8
+**********************************************************************************
+Minimum Paper Level Not Exceeded, Current Paper Level : 226
+Minimum toner level not exceeded, Current toner level : 476
+Student4 Finished Printing 5 Documents, no of pages : 2
+Student4 has Printed Document : 02 Successfully...
+Current Toner Level = 473
+Current Paper Level = 223
+Printed Documents Count = 9
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 473
+Minimum Paper Level Not Exceeded, Current Paper Level : 223
+Student2 Finished Printing 5 Documents, no of pages : 5
+Student2 has Printed Document : 03 Successfully...
+Current Toner Level = 466
+Current Paper Level = 216
+Printed Documents Count = 10
+**********************************************************************************
+Minimum Paper Level Not Exceeded, Current Paper Level : 216
+Minimum toner level not exceeded, Current toner level : 466
+Student1 Finished Printing 5 Documents, no of pages : 12
+Student1 has Printed Document : 04 Successfully...
+Current Toner Level = 458
+Current Paper Level = 208
+Printed Documents Count = 11
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 458
+Minimum Paper Level Not Exceeded, Current Paper Level : 208
+Student4 Finished Printing 5 Documents, no of pages : 5
+Student4 has Printed Document : 03 Successfully...
+Current Toner Level = 451
+Current Paper Level = 201
+Printed Documents Count = 12
+**********************************************************************************
+Minimum Paper Level Not Exceeded, Current Paper Level : 201
+Minimum toner level not exceeded, Current toner level : 451
+Student4 Finished Printing 5 Documents, no of pages : 12
+Student4 has Printed Document : 04 Successfully...
+Current Toner Level = 443
+Current Paper Level = 193
+Printed Documents Count = 13
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 443
+Current Paper level is low, Paper level : 193
+Paper Refilled Successfully..!
+Current Paper Level : 243
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 443
+Student4 Finished Printing 5 Documents, no of pages : 20
+Student4 has Printed Document : 05 Successfully...
+Current Toner Level = 433
+Current Paper Level = 233
+Printed Documents Count = 14
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 433
+Student3 Finished Printing 5 Documents, no of pages : 5
+Student3 has Printed Document : 03 Successfully...
+Current Toner Level = 426
+Current Paper Level = 226
+Printed Documents Count = 15
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 426
+Student2 Finished Printing 5 Documents, no of pages : 12
+Student2 has Printed Document : 04 Successfully...
+Current Toner Level = 418
+Current Paper Level = 218
+Printed Documents Count = 16
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 418
+Student1 Finished Printing 5 Documents, no of pages : 20
+Student1 has Printed Document : 05 Successfully...
+Current Toner Level = 408
+Current Paper Level = 208
+Printed Documents Count = 17
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 408
+Student4 Finished Printing 5 Documents, no of pages : 30
+Minimum Paper Level Not Exceeded, Current Paper Level : 208
+Student1 Finished Printing 5 Documents, no of pages : 30
+Student3 Finished Printing 5 Documents, no of pages : 12
+Student3 has Printed Document : 04 Successfully...
+Current Toner Level = 400
+Current Paper Level = 200
+Printed Documents Count = 18
+**********************************************************************************
+Minimum Paper Level Not Exceeded, Current Paper Level : 200
+Minimum toner level not exceeded, Current toner level : 400
+Student2 Finished Printing 5 Documents, no of pages : 20
+Student2 has Printed Document : 05 Successfully...
+Current Toner Level = 390
+Current Paper Level = 190
+Printed Documents Count = 19
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 390
+Current Paper level is low, Paper level : 190
+Paper Refilled Successfully..!
+Current Paper Level : 240
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 390
+Student2 Finished Printing 5 Documents, no of pages : 30
+Student3 Finished Printing 5 Documents, no of pages : 20
+Student3 has Printed Document : 05 Successfully...
+Current Toner Level = 380
+Current Paper Level = 230
+Printed Documents Count = 20
+**********************************************************************************
+Minimum toner level not exceeded, Current toner level : 380
+Minimum Paper Level Not Exceeded, Current Paper Level : 230
+Student3 Finished Printing 5 Documents, no of pages : 30
+Paper Technician Finished, packs of paper used: 2
+Minimum toner level not exceeded, Current toner level : 380
+Minimum toner level not exceeded, Current toner level : 380
+Toner Technician Finished, cartridges replaced :  0
+
+Printing has ended successfully....
++++++++++++++++++++++++++++++++Summary+++++++++++++++++++++++++++++++
+LaserPrinter{name='Printing 1', id=1, currentTonerLevel=380, currentPaperLevel=230, documentName='DOC1', documentPrinted=20}
+
+Process finished with exit code 0
